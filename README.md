@@ -1,1 +1,0 @@
-# Lab_Computer_Graphics
